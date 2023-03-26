@@ -1,7 +1,6 @@
+![Cherry Blossom Plot](cherry_blossoms_plot.png)
 I enjoyed the cherry blossom tree plot by Robin Rohwer (@RobinRohwer) a lot and decided to use her code to recreate her plot on Twitter https://twitter.com/RobinRohwer/status/1639097356657512449. The code was only shared in an image, so I used some OCR software to read the code and correct any OCR errors with the help of ChatGPT. Also used ChatGPT to comment on the code and use the Pacman R library to substitute multiple require() calls and finally save the plot to file. The font of the plot was not really my cup of tea, so I decided to use "M Plus 1p" instead (https://fonts.google.com/specimen/M+PLUS+1p). Took the liberty to change the plot's background to a color closer
 to the background image.
-
-![Cherry Blossom Plot](cherry_blossoms_plot.png)
 
 The cherry blossom tree time data is automatically being downloaded in the R script from https://www.ncei.noaa.gov/pub/data/paleo/historical/phenology/japan/KyotoFullFlowerW.xls and saved to this folder.
 
