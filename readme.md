@@ -3,9 +3,9 @@ to the background image.
 
 ![Cherry Blossom Plot](cherry_blossoms_plot.png)
 
-The cherry blossom tree time data is automatically being downloaded in the R script from https://www.ncei.noaa.gov/pub/data/paleo/historical/phenology/japan/KyotoFullFlowerW.xls and saved to this folder. 
+The cherry blossom tree time data is automatically being downloaded in the R script from https://www.ncei.noaa.gov/pub/data/paleo/historical/phenology/japan/KyotoFullFlowerW.xls and saved to this folder.
 
-The background image called "A person in a small boat on a river with Mount Fuji" was painted by Japanese ukiyo-e artist of the Edo period Katsushika Hokusai. I downloaded it from Wikipedia Commons https://commons.wikimedia.org wikiFile:A_person_in_a_small_boat_on_a_river_with_Mount_Fuji_in_the_background_LCCN2009631925.jpg. I cropped and mirrored the upper part of the image as per instruction by Robin Rohwer. Check out Katsushika Hokusai's work, its really beautiful. 
+The background image called "A person in a small boat on a river with Mount Fuji" was painted by Japanese ukiyo-e artist of the Edo period Katsushika Hokusai. I downloaded it from Wikipedia Commons https://commons.wikimedia.org wikiFile:A_person_in_a_small_boat_on_a_river_with_Mount_Fuji_in_the_background_LCCN2009631925.jpg. I cropped and mirrored the upper part of the image as per instruction by Robin Rohwer. Check out Katsushika Hokusai's work, its really beautiful.
 
 
 Install innstructions:
