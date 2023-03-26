@@ -67,8 +67,8 @@ y.lab <- format(y.dates, "%b %d")
 p <- ggplot(data = cherry, aes(x = year, y = yday)) +
   theme_bw() +
   theme(panel.grid = element_blank(),
-        axis.text = element_text(size = 12, family = "mplus1p"),
-        axis.title = element_text(size = 15, family = "mplus1p"), 
+        axis.text = element_text(size = 18, family = "mplus1p"),
+        axis.title = element_text(size = 22, family = "mplus1p"), 
         # specified background color that is closer to image than pure white
         panel.background = element_rect(fill = "#E0D5C4"),
         plot.background = element_rect(fill = "#E0D5C4"),
