@@ -4,6 +4,8 @@ to the background image.
 
 The cherry blossom tree time data is automatically being downloaded in the R script from https://www.ncei.noaa.gov/pub/data/paleo/historical/phenology/japan/KyotoFullFlowerW.xls and saved to this folder.
 
+The Python script was created with the ggplot2-copy of Python, Plotnine, and is still work in progress. Appreciate pull requests that bring this plot to the next level.
+
 The background image called "A person in a small boat on a river with Mount Fuji" was painted by Japanese ukiyo-e artist of the Edo period Katsushika Hokusai. I downloaded it from Wikipedia Commons https://commons.wikimedia.org wikiFile:A_person_in_a_small_boat_on_a_river_with_Mount_Fuji_in_the_background_LCCN2009631925.jpg. I cropped and mirrored the upper part of the image as per instruction by Robin Rohwer. Check out Katsushika Hokusai's work, its really beautiful.
 
 
@@ -11,6 +13,7 @@ Install innstructions:
 
 R users: Simply run the R script.
 
+Python users: Create virtual environment and install dependcies with requirements.txt. Run Python script. 
 
 All credits for the R code go to Robin Rohwer (@RobinRohwer). You're free to use my Python code hower you like.
 
