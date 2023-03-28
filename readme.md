@@ -15,6 +15,8 @@ R users: Simply run the R script.
 
 Python users: Create virtual environment and install dependcies with requirements.txt. Run Python script. 
 
+![Cherry Blossom Plot with Python](cherry_blossoms_plot_python.png)
+
 All credits for the R code go to Robin Rohwer (@RobinRohwer). You're free to use my Python code hower you like.
 
 
